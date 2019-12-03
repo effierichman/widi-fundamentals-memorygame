@@ -24,6 +24,7 @@ nav {
 	background-color: #00A6B3;
 	color: #FFFFFF
 	margin: 0 20px;
+	padding: 20px 0;
 }
 
 h2 {
@@ -43,7 +44,6 @@ a {
 	font-size: 18px;
 	margin: 0 20px;
 	text-decoration: none;
-	padding: 0 20px;
 	border-style: 2PX solid transparent;
 }
 
@@ -64,6 +64,10 @@ p {
 
 img {
 	margin: 40px 8px 0 8px;
+}
+
+.link {
+	color: #0D2C40;
 }
 
 footer {
